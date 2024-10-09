@@ -31,6 +31,12 @@ Functional Excellent Speaker | 50 | 2.18 | 1.466
 
 #### Visualization of Logistics Regression
 
+![study1](https://github.com/user-attachments/assets/9c69b5a4-5b47-4d24-ba6c-76994b443761)
+
+### Study 2
+
+#### Visualization of Logistics Regression
+
 
 
 ---
