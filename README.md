@@ -25,6 +25,12 @@ Functional Excellent Speaker | 50 | 2.18 | 1.466
 
 #### Speaker
 
+![pt_s](https://github.com/user-attachments/assets/8c1e87c8-2034-4d78-9f19-70f63df848c4)
+
+### Study 1
+
+#### Visualization of Logistics Regression
+
 
 
 ---
