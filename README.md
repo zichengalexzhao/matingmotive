@@ -8,6 +8,20 @@ This study explores how mating motives influence the preference differences betw
 
 ---
 
+## Result
+
+### Pre-test
+
+
+Product | N | Mean | SD 
+--- | --- | --- | --- 
+Appearance Excellent Headphones | 50 | -2.04 | 1.784
+Functional Excellent Headphones | 50 | 1.06 | 2.090
+Appearance Excellent Speaker | 50 | -1.36 | 2.145
+Functional Excellent Speaker | 50 | 2.18 | 1.466
+
+---
+
 ## Research Materials
 
 ### Pre-test
@@ -21,3 +35,4 @@ This study explores how mating motives influence the preference differences betw
 ### Study 2
 
 ![study2](https://github.com/user-attachments/assets/fdfa46d7-2062-4280-961a-68996d133256)
+
