@@ -11,3 +11,9 @@ This study explores how mating motives influence the preference differences betw
 ## Research Materials
 
 ### Pre-test
+
+![pretest](https://github.com/user-attachments/assets/05194305-d041-43eb-ab5e-e0bf1f6831aa)
+
+### Study 1
+
+### Study 2
